@@ -8,3 +8,10 @@ This Smart Farming app, built in Swift 5 from Figma designs, served over 20,000+
   <img src="https://github.com/Danish1111/MyPortfolio/blob/main/assets/gif6.gif" width="250" height="500" alt="App GIF 2" style="margin-right: 20px; margin-bottom: 20px;">
   <img src="https://github.com/Danish1111/MyPortfolio/blob/main/assets/gif3.gif" width="250" height="500" alt="App GIF 3" style="margin-bottom: 20px;">
 </div>
+
+
+<div align="center">
+  <img src="https://github.com/Danish1111/MyPortfolio/blob/main/assets/upaj1.png" width="250" height="500" alt="App GIF 1" style="margin-right: 20px; margin-bottom: 20px;">
+  <img src="https://github.com/Danish1111/MyPortfolio/blob/main/assets/upaj2.png" width="250" height="500" alt="App GIF 2" style="margin-right: 20px; margin-bottom: 20px;">
+  <img src="https://github.com/Danish1111/MyPortfolio/blob/main/assets/upaj4.png" width="250" height="500" alt="App GIF 3" style="margin-bottom: 20px;">
+</div>
