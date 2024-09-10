@@ -1,8 +1,3 @@
-![Neutral Creative Professional LinkedIn Article Cover Image-2](https://github.com/Danish1111/MyPortfolio/blob/main/assets/banner.png)
-
- ### 👋 Hi! I'm a Sr. iOS Developer with 7 years of experience in Swift, SwiftUI, and Kotlin. Expert in building scalable, high-quality mobile applications
-
-
 ## <span style="color:blue">Upaj - Kisan ka Super App (iOS)</span>
 
 **App Description:**
